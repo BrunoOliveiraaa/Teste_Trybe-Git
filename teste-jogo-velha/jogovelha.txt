@@ -3,10 +3,10 @@
   OBS --- Quando for efetuar a sua jogada copie o emoji 
   do seu time 
 
-             ⬜⬜⬜              
-             ⬜⬜⬜                   
-             ⬜⬜⬜                   
+             ⬜⬜⬜             
+             ⬜⬜⬜   --- Vencedor:               
+             ⬜⬜⬜                  
                      
- Time: ⚪                Time: ❌
+ Time: ⚫                Time: ❌
  Jogador:                Jogador: 
 
